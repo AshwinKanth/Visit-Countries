@@ -1,0 +1,31 @@
+.visitedCountriesListDetails {
+  list-style: none;
+  width: 330px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  background-color: #1f1f2f;
+}
+
+.image {
+  width: 330px;
+}
+
+.details-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.removeButton {
+  height: 30px;
+  width: 80px;
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+  color: #f1f5f9;
+  border: 1px solid #f1f5f9;
+  border-radius: 5px;
+}
